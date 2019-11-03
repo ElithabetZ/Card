@@ -82,7 +82,7 @@
   }
   
   .pic{
-    background: url(https://user-images.githubusercontent.com/57035080/68089428-f7dcb000-fe68-11e9-9169-b27c5a06eda7.jpg) no-repeat 0% 30%/ cover padding-box border-box;
+    background: url(2back.jpg) no-repeat 0% 30%/ cover padding-box border-box;
     font-family: 'Pacifico', cursive;
     display: flex;
     justify-content: center;
